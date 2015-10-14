@@ -5,5 +5,5 @@ import (
 )
 
 func Show() {
-	fmt.Println("Show me love.")
+	fmt.Println("Show me love!")
 }

@@ -1,2 +1,6 @@
 /bin
+/pkg
 /data
+/vendor/src
+/vendor/pkg
+/vendor/bin

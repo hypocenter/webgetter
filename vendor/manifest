@@ -1,0 +1,11 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "golang.org/x/text",
+			"repository": "https://go.googlesource.com/text",
+			"revision": "5722c1c97facbc41d1f9329ce722ed374db7d819",
+			"branch": "master"
+		}
+	]
+}
